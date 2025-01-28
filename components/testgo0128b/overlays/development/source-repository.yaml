@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: testgo0128b-repository
+spec:
+  url: https://github.com/xjiangorg/testgo0128b
